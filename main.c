@@ -10,7 +10,7 @@ int main()
     
     transf = ((celsius * 9)) / 5 + 32;
     
-    printf("O valor em Farenheits é de: %d", transf);
+    printf("O valor em Fahrenheits é de: %d", transf);
     
     
 
