@@ -2,8 +2,7 @@
 
 int main()
 {
-    int celsius;
-    int transf;
+    int celsius, transf;
     
     printf("Digite a temperatura em celsius: ");
     scanf("%d", &celsius);
@@ -12,7 +11,5 @@ int main()
     
     printf("O valor em Fahrenheits é de: %d", transf);
     
-    
-
     return 0;
 }
